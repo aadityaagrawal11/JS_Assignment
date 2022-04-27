@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadityaagrawal11
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MCA from NIT RAIPUR
 - 💞️ I’m looking to collaborate on Development Projects
 - 📫  reach me through mail- aadityaagrawal11@gmail.com
