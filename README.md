@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aadityaagrawal11
+- 👋 Hi, I’m Aditya Agrawal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MCA from NIT RAIPUR
 - 💞️ I’m looking to collaborate on Development Projects
