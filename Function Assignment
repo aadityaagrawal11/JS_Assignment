@@ -1,0 +1,4 @@
+let sum=(x, y) => {
+    return x+y;
+}
+console.log(`Sum of two number is: ${sum(10,20)}`);
