@@ -1,0 +1,3 @@
+var fruits=["apple","banana", "orange","grape", "mango"];
+//console.log(fruits);
+console.log(`Total numbers of fruits are : ${fruits.length}`);
