@@ -1,0 +1,11 @@
+
+<?php
+$x = 10;
+$y = 10;
+echo "The  multiplication table is \n\n";
+
+for ($i = 1; $i <= $y; $i++) {
+    echo "\t", $x, " * ", $i, " = ", $x * $i, "\n";
+}
+
+?>
